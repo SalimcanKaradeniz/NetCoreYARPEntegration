@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\NetCoreYARPEntegration.OrderAPI.props" />
-</Project>
