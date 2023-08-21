@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "BKSjKUUsb9LuL7yUdS8yG0zo3nDdHWVvXMwJerfYpmYjywx/10knI01dhoOVEL/J2WgL+oLLAxPJf6DRXEzqow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\salimcan.karadeniz\\source\\repos\\NetCoreYARPEntegration\\NetCoreYARPEntegration.OrderAPI\\NetCoreYARPEntegration.OrderAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\salimcan.karadeniz\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\salimcan.karadeniz\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\salimcan.karadeniz\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\salimcan.karadeniz\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\salimcan.karadeniz\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\salimcan.karadeniz\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
